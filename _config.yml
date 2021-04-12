@@ -5,6 +5,8 @@ description: Apeism is our light
 baseurl: "" 
 url: "https://apeism.github.io/" 
 github_username:  Apeism
+url: "https://www.zhihu.com/people/ether-lin"
+zhihu_usename:  Ether
 
 # Build settings
 theme: minima

@@ -2,7 +2,6 @@
 layout: page
 title: Philoape
 permalink: /philoape/
-published: true
 
 ---
 

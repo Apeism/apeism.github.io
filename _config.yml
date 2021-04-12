@@ -4,6 +4,7 @@ description: Apeism is our light
 
 baseurl: "" 
 url: "https://apeism.github.io/" 
+github_username:  Apeism
 
 # Build settings
 theme: minima

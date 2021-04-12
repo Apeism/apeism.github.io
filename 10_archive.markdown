@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: Philoape
+permalink: /philoape/
 published: false
 
 ---
 
-*The archive of the post can be found here*
+
 
 

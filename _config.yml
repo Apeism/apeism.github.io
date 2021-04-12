@@ -1,0 +1,12 @@
+
+title: Apeism
+description: Apeism is our light
+
+baseurl: "" 
+url: "https://apeism.github.io/" 
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-sitemap
+  

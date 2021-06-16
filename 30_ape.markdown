@@ -1,6 +1,8 @@
 ---
 layout: page
+title: apemas
 permalink: /apemas/
+nomenu: true
 ---
 
 <span style=" font-size:2em;">  Happy Birthday!  <img src="{{site.url}}/download/wave.png" width="40" /> </span> 

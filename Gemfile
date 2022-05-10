@@ -11,5 +11,3 @@ group :jekyll_plugins do
 end
 
 gem 'webrick'
-
-gem "commonmarker", ">= 0.23.4"

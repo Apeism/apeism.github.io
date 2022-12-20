@@ -13,6 +13,6 @@ permalink: /history/
 
 2021 May 2nd - Founding member [redacted] left their last message, shortly leaving Apeism [redacted] afterwards
 
-2021 November 7th - Apeism convened for the first [redacted] at [redacted]
+2021 November 7th - Apeism convened the first [redacted] at [redacted]
 
 2022 April 18th - Second Apemas

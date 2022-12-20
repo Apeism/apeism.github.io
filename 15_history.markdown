@@ -7,7 +7,7 @@ permalink: /history/
 
 2021 March 4th - Apeism [redacted] was founded by [redacted]
 
-2021 April 12th - Apeism website founded by [redacted]
+2021 April 12th - Apeism website was founded by [redacted]
 
 2021 April 18th - First Apemas
 
